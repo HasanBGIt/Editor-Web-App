@@ -4,14 +4,14 @@
     font-family: sans-serif;
 }
 body{
-    background-color: #333;
+    background-color: #80859e;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .container{
     margin-top: 20px;
-    background-color: #222;
+    background-color: #6e6868;
     width: 80vw;
     padding: 20px;
     display: grid;
