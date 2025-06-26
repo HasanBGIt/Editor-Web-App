@@ -25,7 +25,7 @@ A lightweight and easy-to-use browser-based image editor. Users can upload their
 
 > _(You can replace the image path with a real one hosted on your repo or CDN)_
 
-![Editor Screenshot](Screenshot 2025-06-26 190758.png)
+![Editor Screenshot](./Screenshot.png)
 
 ---
 
